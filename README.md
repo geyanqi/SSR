@@ -1,4 +1,5 @@
 # SSR : SAM is a Strong Regularizer for domain adaptive semantic segmentation&#x20;
+[Arxiv](https://arxiv.org/abs/2401.14686)
 
 ## Overview&#x20;
 
